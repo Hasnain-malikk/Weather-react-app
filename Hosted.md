@@ -1,1 +1,0 @@
-https://weather-appp-reactt.netlify.app
